@@ -10,10 +10,7 @@ This is an early doc with a list of active projects, how to initiate one and how
 
 ## Project Life Cycle
 
-```mermaid
-graph LR
-		Idea --> Concept --> Proposal --> Active --> Completed
-```
+![mermaid-diagram-20200910105703](assets/diagram-project-lifecycle.svg)
 
 Many projects start as simple ideas and grow over time with the help of many different people. Ideas can be about new chapters to the guide, new work groups, research projects, software to be developed, contributions to other projects, and more.
 
@@ -52,4 +49,28 @@ Many projects start as simple ideas and grow over time with the help of many dif
   - For a thoughtful explanation of rough consensus, please [read this](https://tools.ietf.org/html/rfc7282).
 - On completion, the pull requests is merged and closed, along with the issue
   - Need to decide initial group of maintainers with merge access, [join the discussion](https://github.com/BitcoinDesign/Meta/issues/10)
+
+## Project ideas
+
+Just a few ideas of things we can try to do or get involved in. This is in no way comprehensive - if you want to see what else is being worked on .
+
+- Open-source bitcoin projects that really need design work done ([BTCPay](https://bitcoindesign.slack.com/archives/C015GFYSJNA/p1593278999208700?thread_ts=1593109196.175100&cid=C015GFYSJNA), [Bitcoin Core](https://bitcoindesign.slack.com/archives/C016Y1XFR99), [Photon Wallet](https://github.com/photon-sdk/photon-lib))
+- Bitcoin design podcast ([via Pedro](https://bitcoinopuxui.com))
+- Wallet UI kit
+- Regular design review calls (in addition to community calls, these would be solely for reviewing 
+  active design work or products)
+- Work groups (research, community, open design…)
+- Bitcoin design swag (shirts, stickers, posters…)
+- Larger bitcoin community involvement (participation in external events like conferences, podcasts, workshops, meetups or writing blog posts and other content)
+- User research templates so anyone in the ecosystem can easily perform research ([Slack convo](https://bitcoindesign.slack.com/archives/C015DQEPCHJ/p1594844380182400))
+- Font support for the bitcoin symbol ([Slack conversation about Inter](https://bitcoindesign.slack.com/archives/C015856BDME/p1594756418462500))
+
+---
+
+###### Flow Chart Source
+
+```mermaid
+graph LR
+		1(Idea) --> 2(Concept) --> 3(Proposal) --> 4(Active) --> 5(Completed)
+```
 
