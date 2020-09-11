@@ -1,35 +1,36 @@
 # Bitcoin Design - Meta
 `community`, `project-management`, `process`
 
-Anything related to group consensus and coordination of the Bitcoin Design Community.
+Activity in the Bitcoin Design community largely happens in the Slack workspace and here on Github, but also in the various projects our members are involved in.
 
-### Getting Started
+This repository is used for organizing calls, group consensus and coordination. The [Guide](https://github.com/BitcoinDesign/Guide) repository is for the Bitcoin Design Guide we are working on, which is a design reference for anyone building open-source bitcoin products.
 
-#### How to get involved in the community
+Community activity is fluid, but here are a few important starting points:
 
-1. [Join the community](https://join.slack.com/t/bitcoindesign/shared_invite/zt-gytq2snl-4TEWJOTKrXRCB4YLBoDunA) on Slack
-2. Learn a pr [Project Life Cycle]((Projects.md))
-3. Discuss and shape [processes for the community and open design](https://github.com/BitcoinDesign/Meta/issues)
+## How to get involved in the community
 
-#### How to get involved in projects
+1. [Join the community on Slack](https://join.slack.com/t/bitcoindesign/shared_invite/zt-gytq2snl-4TEWJOTKrXRCB4YLBoDunA) on Slack
+2. Read up on our [project life cycle](Projects.md)
+3. Browse [issues](https://github.com/BitcoinDesign/Meta/issues) for upcoming calls and discussions around processes and coordination
 
-1. Pick existing [project](Projects.md) in the space and do something small
-2. If you have an idea post it to [#project-ideas](https://bitcoindesign.slack.com/archives/C0174N5KUF9)
+## How to get involved in projects
+
+1. Browse [issues labelled as projects](https://github.com/BitcoinDesign/Meta/issues?q=is%3Aopen+is%3Aissue+label%3Aproject)
+2. Browse and post ideas in the [#project-ideas](https://bitcoindesign.slack.com/archives/C0174N5KUF9) Slack channel
+1. See [projects](Projects.md) for a few project ideas
 3. Contribute to the [Bitcoin Design Guide](https://github.com/BitcoinDesign/Guide)
 
-### Opensource Design Process
-
-- Slack Channel — [#open-design](https://bitcoindesign.slack.com/archives/C015GFYSJNA)
-- Discussions -- [Issues](https://github.com/BitcoinDesign/Meta/issues)
-
-### Research
-
-- Slack Channel — [#research](https://bitcoindesign.slack.com/archives/C015DQEPCHJ)
-- User Surveys — [WIP Doc](https://docs.google.com/document/d/1Sjh9yZJOHfbrqmjpdiekDz361A9kWEsDrB0CggIoxU0/edit#)
-
-### Guide
+## Bitcoin Design Guide
 
 - Project Intro — [Doc v2.0.0](https://docs.google.com/document/d/1YiYeRIybGmxmErCOI4Jc8Qajz3JGM1JYVfUtpzyCzSk/edit?usp=sharing)
 - Slack Channel — [#bitcoin-design-guide](https://bitcoindesign.slack.com/archives/C015856BDME)
 - Github Repository — [Guide](https://github.com/BitcoinDesign/Guide)
 - Github Project Board — [Guide/Content](https://github.com/BitcoinDesign/Guide/projects/1)
+
+## Relevant Slack channels
+
+- [#open-design](https://bitcoindesign.slack.com/archives/C015GFYSJNA)
+- [#research](https://bitcoindesign.slack.com/archives/C015DQEPCHJ)
+- [#ux](https://bitcoindesign.slack.com/archives/C015DQEPCHJ)
+- [#design-review](https://bitcoindesign.slack.com/archives/C015DQEPCHJ)
+- [#art](https://bitcoindesign.slack.com/archives/C015DQEPCHJ)
