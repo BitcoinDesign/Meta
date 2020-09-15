@@ -1,7 +1,7 @@
 # Bitcoin Design - Meta
 `community`, `project-management`, `process`
 
-Activity in the Bitcoin Design community largely happens in the Slack workspace and here on Github, but also in the various projects our members are involved in.
+Activity in the Bitcoin Design community largely happens in the Slack workspace and here on Github, but also in the various projects our contributors are involved in.
 
 This repository is used for organizing calls, group consensus and coordination. The [Guide](https://github.com/BitcoinDesign/Guide) repository is for the Bitcoin Design Guide we are working on, which is a design reference for anyone building open-source bitcoin products.
 
