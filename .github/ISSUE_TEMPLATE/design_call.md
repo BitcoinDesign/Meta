@@ -14,7 +14,7 @@ Timezone: UTC
 Duration: 1h 30m
 ```
 
-[Incredibly well-designed event cover image]
+[Incredibly well-designed event cover image, see other call issues for inspiration but feel free to put your own touch on it. Landscape formats work best.]
 
 ### Agenda
 
