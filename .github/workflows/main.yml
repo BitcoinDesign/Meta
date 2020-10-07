@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Create calendar
         id: hello
-        uses: GBKS/github-events-calendar@master
+        uses: GBKS/github-events-calendar@v0.1
         with:
           domain: 'bitcoindesigners.org'
           company: 'Bitcoin Design Community'
@@ -27,7 +27,7 @@ jobs:
           git add events.ical
           git diff --quiet && git diff --staged --quiet || git commit -m "Update events.ical from issues"
       - name: Push changes # push the output folder to your repo
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           force: true
