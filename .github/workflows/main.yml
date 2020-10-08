@@ -1,0 +1,33 @@
+on:
+  push:
+  issues:
+    types:
+      - opened
+      - edited
+
+jobs:
+  create_calendar_from_issues:
+    runs-on: ubuntu-latest
+    name: Create calendar from issues
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create calendar
+        id: hello
+        uses: GBKS/github-events-calendar@v0.1.1
+        with:
+          domain: 'bitcoindesigners.org'
+          company: 'Bitcoin Design Community'
+          name: 'Bitcoin Design Community Calls & Events'
+          repository: "BitcoinDesign,Meta,call"
+          file: 'events.ical'
+      - name: Commit files
+        run: |
+          git config --local user.email "calendar-action@github.com"
+          git config --local user.name "iCal updater"
+          git add events.ical
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore(calendar): update events.ical from opened/edited call issue"
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true

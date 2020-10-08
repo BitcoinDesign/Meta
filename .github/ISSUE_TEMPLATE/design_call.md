@@ -2,7 +2,7 @@
 name: Community or working group call
 about: Bitcoin Design community call or design sessions
 title: '... Design Call #0'
-labels: 'call'
+labels: ''
 assignees: ''
 
 ---
@@ -11,7 +11,8 @@ assignees: ''
 Date: 2020-MM-DD
 Time: 4:00pm
 Timezone: UTC
-Duration: 1h 30m
+Duration: 1h
+UTCTime: 
 ```
 
 [Incredibly well-designed event cover image, see other call issues for inspiration but feel free to put your own touch on it. Landscape formats work best.]

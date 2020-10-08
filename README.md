@@ -12,6 +12,7 @@ Community activity is fluid, but here are a few important starting points:
 1. [Join the community on Slack](https://join.slack.com/t/bitcoindesign/shared_invite/zt-gytq2snl-4TEWJOTKrXRCB4YLBoDunA)
 2. Read up on our [project life cycle](Projects.md)
 3. Browse [issues](https://github.com/BitcoinDesign/Meta/issues) for upcoming calls and discussions around processes and coordination
+4. Subscribe to our [calendar](events.ical) to stay up-to-date with calls and events we organize
 
 ## How to get involved in projects
 
