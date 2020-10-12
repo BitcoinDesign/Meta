@@ -50,4 +50,5 @@ Our [calendar](https://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/eve
 There are two requirements for an issue to be included:
 
 - The issue needs to include a `UTCTime` meta property following this format: `UTCTime: 2020-10-14 9:00 UTC -7`. You can seen an example [here](https://github.com/BitcoinDesign/Meta/issues/27)
-- To prevent spam, a maintainer needs to have added the `call` label to the issue
+- A maintainer needs to add the `call` label to the issue (this prevents spam)
+- The calendar auto-updates whenever a new issue is created, or an existing issue is edited
