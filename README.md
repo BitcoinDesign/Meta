@@ -36,3 +36,18 @@ Community activity is fluid, but here are a few important starting points:
 - [#ux](https://bitcoindesign.slack.com/archives/C015DQEPCHJ)
 - [#design-review](https://bitcoindesign.slack.com/archives/C015DQEPCHJ)
 - [#art](https://bitcoindesign.slack.com/archives/C015DQEPCHJ)
+
+## The Bitcoin Design calendar
+
+Our [calendar](https://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/events.ical) (an .iCal file) includes upcoming calls (community calls, design review calls, etc). Qualified issues are automatically added to the calendar, which you can then subscribe to via your favorite calendar tool.
+
+- Copy this URL: [https://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/events.ical](https://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/events.ical)
+- In Apple Calendar (desktop), use `File -> New calendar subscriptions`
+- In Google Calendar (web), click the small `+` icon next to `Other calendars` in the sidebar and select `From URL`
+- Paste the URL and save. New events (if there are any scheduled) should show up right away
+- Calendar tools regularly reload subscribed calendars for updates. How often this happens varies by tool
+
+There are two requirements for an issue to be included:
+
+- The issue needs to include a `UTCTIME` property following this format: `2020-10-14 9:00 UTC -7`
+- To prevent spam, a maintainer needs to have added the `call` label to the issue
