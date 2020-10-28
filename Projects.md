@@ -64,7 +64,7 @@ Just a few ideas of things we can try to do or get involved in. This is in no wa
 - Larger bitcoin community involvement (participation in external events like conferences, podcasts, workshops, meetups or writing blog posts and other content)
 - User research templates so anyone in the ecosystem can easily perform research ([Slack convo](https://bitcoindesign.slack.com/archives/C015DQEPCHJ/p1594844380182400))
 - Font support for the bitcoin symbol ([Slack conversation about Inter](https://bitcoindesign.slack.com/archives/C015856BDME/p1594756418462500))
-
+- Contribute to the [Bitcoin wiki](https://en.bitcoin.it/wiki/Main_Page)
 ---
 
 ###### Flow Chart Source
