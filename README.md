@@ -45,6 +45,7 @@ Our [calendar](https://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/eve
 - In Apple Calendar (desktop), use `File -> New calendar subscriptions`
 - In Google Calendar (web), click the small `+` icon next to `Other calendars` in the sidebar and select `From URL`
 - Paste the URL and save. New events (if there are any scheduled) should show up right away
+- In Thunderbird (desktop), `New Calendar` > `On my network` > `iCalendar (ICS)` and paste the [calendar link](https://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/events.ical) in the location field.
 - Calendar tools regularly reload subscribed calendars for updates. How often this happens varies by tool
 
 There are two requirements for an issue to be included:
