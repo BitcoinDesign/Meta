@@ -13,7 +13,7 @@ Anyone who is working on a user-facing application and wants to get some tips on
 This provides a space for the open-source design community to get valuable feedback from different perspectives during the design phase. This will help designers to feel confident they are moving in the right direction.
 
 ## How to prepare? 
-Please come prepared with screenshots, videos, slides, mockups. If possible you should also aim to share work beforehand with the community so we can spend more time on discussion and less on actually presenting work. There is a dedicated [#design-review](https://bitcoindesign.slack.com/archives/C015DQEPCHJ)channel in slack which is a good place to post your work. In addition, it would be helpful if as a presenter you came prepared with biggest areas of concern or a set of questions.
+Please come prepared with screenshots, videos, slides, mockups. If possible you should also aim to share work beforehand with the community so we can spend more time on discussion and less on actually presenting work. There is a dedicated [#design-review](https://bitcoindesign.slack.com/archives/C015DQEPCHJ) channel in slack which is a good place to post your work. In addition, it would be helpful if as a presenter you came prepared with biggest areas of concern or a set of questions.
 
 ## How do I get involved?
 Attend a review! We are currently hosting on Jitsi! 
