@@ -7,7 +7,7 @@ A bi-weekly design review for Bitcoin products and services at (time to be confi
 This allows designers and developers to get constructive feedback specifically related to the user interface, user experience and other related design elements. 
 
 ## Who can take part?
-Anyone who is working on a user-facing application and wants to get some tips on how they can improve the user experience. We also encourage those who want to learn more about design, enjoy design discussion and giving constructive feedback in a casual informal environment.
+Anyone who is working on a user-facing application and wants to get some tips on how they can improve the user experience. We also encourage those who want to learn more about design, enjoy design discussion and giving constructive feedback in a casual informal environment. We greatly appreciate the pseudonymous and private nature of Bitcoin and are more than happy to accommodate those who would prefer not to reveal their identity or have a session recorded. 
 
 ## Why should you take part in design review?
 This provides a space for the open-source design community to get valuable feedback from different perspectives during the design phase. This will help designers to feel confident they are moving in the right direction.
