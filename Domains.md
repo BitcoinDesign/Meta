@@ -5,7 +5,8 @@ The community
 The Bitcoin Design community, defined as; 
 
 *“The active members of the Slack workspace at bitcoindesign.slack.com, represented in rough-consensus by the maintainers of the BitcoinDesign Github organization at github.com/bitcoindesign”.
-Community domains
+
+## Community domains
 Community domains are used to promote and host content that the community has created and committed to the github.com/bitcoindesign repositories. This currently applies to;*
 
 - bitcoin.design
