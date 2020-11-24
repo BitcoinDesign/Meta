@@ -1,27 +1,25 @@
-# Domains
+# Community domains
 
-This document sets out rules on community domains and the responsibilities and expectations of anyone that maintains and manages the domain settings of official domains used by the Bitcoin Design community. 
-The community
+This document sets out rules for community domains and the responsibilities and expectations of anyone that maintains and manages the domain settings of official domains used by the Bitcoin Design community. Community domains are used to promote and host content that the community has created and committed to the github.com/bitcoindesign repositories. This currently applies to;
+
+- bitcoin.design
+
+## The community
 The Bitcoin Design community, defined as; 
 
 *“The active members of the Slack workspace at bitcoindesign.slack.com, represented in rough-consensus by the maintainers of the BitcoinDesign Github organization at github.com/bitcoindesign”.*
 
-## Community domains
-Community domains are used to promote and host content that the community has created and committed to the github.com/bitcoindesign repositories. This currently applies to;
-
-- bitcoin.design
-
-## Domain ownership
+## Ownership
 A community domain shall be considered owned by the Bitcoin Design community.
 The role of domain maintainer does not imply any ownership of the domain. 
 
-## Domain registration and payments
+## Registration and payments
 The community will pay for, or solicit donations to pay for the long term registration of the community domain(s). 
 
-## Domain maintainer
-The domain maintainer needs to enact the will of the community and should be strongly disincentivized to act in their own interest. They are NOT allowed to change the domain settings in any way without the approval from the community as set out in domain changes. The domain maintainer is selected from the community github maintainers, should be an active contributor at the time of selection and should notify the community if they no longer wish to be a maintainer or are planning to leave their active role in the community.
+## Maintainer
+A domain maintainer needs to enact the will of the community and should be strongly disincentivized to act in their own interest. They are NOT allowed to change the domain settings in any way without the approval from the community as set out in domain changes. The domain maintainer is selected from the community github maintainers, should be an active contributor at the time of selection and should notify the community if they no longer wish to be a maintainer or are planning to leave their active role in the community.
 
-## Domain changes
+## Changes
 The domain maintainer will not make any changes to the domain (including pointing it to other content than hosted by the github.com/bitcoindesign repositories) without the consent of the community. To make a change, a community github maintainer needs to propose a change;
 
 - Create a pull request with a clear description and rationale for the change in the bitcoindesign/meta repository.
@@ -33,6 +31,7 @@ The domain maintainer will not make any changes to the domain (including pointin
 The domain maintainer can NOT sell, rent or give the domain away nor accept any form of payment for proposing or changing domain settings. The domain maintenance authority can only be handed over to another community maintainer through the domain change process outlined above.
 
 ---
+# Domain information
 
 ## bitcoin.design
 Maintainer: 
