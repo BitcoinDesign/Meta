@@ -36,7 +36,7 @@ The domain maintainer can NOT sell, rent or give the domain away nor accept any 
 ## bitcoin.design
 Maintainer: 
 
-Renewal date: 2021-06-27
+Renewal date: 2021-06-27T23:59:59.0Z
 
 DNS records:
 
