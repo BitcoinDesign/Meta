@@ -31,5 +31,7 @@ You can also subscribe to our auto-updating calendar, [More info here](https://g
 
 Meetings may be recorded for posterity!
 
+You can view a video from a previous design review session [here](https://www.youtube.com/watch?v=4JtL7I0ihiw)
+
 ## Contacts
 Design reviews are currently being scheduled and hosted by [ConorOkus](https://github.com/ConorOkus). Future meetings are likely to be hosted by different members of the Bitcoin Design community. 
