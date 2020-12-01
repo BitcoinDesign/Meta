@@ -3,6 +3,7 @@
 This document sets out rules for community domains and the responsibilities and expectations of anyone that maintains and manages the domain settings of official domains used by the Bitcoin Design community. Community domains are used to promote and host content that the community has created and committed to the github.com/bitcoindesign repositories. This currently applies to;
 
 - bitcoin.design
+- bitcoindesigners.org
 
 ## The community
 The Bitcoin Design community, defined as; 
@@ -39,7 +40,6 @@ Maintainer:
 Renewal date: 2021-06-27T23:59:59.0Z
 
 DNS records:
-
 
 
 
