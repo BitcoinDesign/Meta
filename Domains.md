@@ -23,11 +23,11 @@ A domain maintainer needs to enact the will of the community and should be stron
 ## Changes
 The domain maintainer will not make any changes to the domain (including pointing it to other content than hosted by the github.com/bitcoindesign repositories) without the consent of the community. To make a change, a community github maintainer needs to propose a change;
 
-- Create a pull request with a clear description and rationale for the change in the bitcoindesign/meta repository.
-- Post a link to the pull request in the #general Slack channel
-- The pull request needs to remain open for at least 30 days and all comments and concern need to be addressed before a decision can me made
-- Decision will be made by rough consensus of the community and the github maintainers
-- The proposing maintainer can participate in the discussion but not resolve the pull request once a decision has been made
+1. Create a pull request with a clear description and rationale for the change in the bitcoindesign/meta repository.
+2. Post a link to the pull request in the #general Slack channel
+3. The pull request needs to remain open for at least 30 days and all comments and concern need to be addressed before a decision can me made
+4. Decision will be made by rough consensus of the community and the github maintainers
+5. The proposing maintainer can participate in the discussion but should not be the one to merge the pull request once a decision has been made
 
 The domain maintainer can NOT sell, rent or give the domain away nor accept any form of payment for proposing or changing domain settings. The domain maintenance authority can only be handed over to another community maintainer through the domain change process outlined above.
 
@@ -40,7 +40,6 @@ Maintainer:
 Renewal date: 2021-06-27T23:59:59.0Z
 
 DNS records:
-
 
 
 
