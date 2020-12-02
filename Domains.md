@@ -15,7 +15,7 @@ A community domain shall be considered owned by the Bitcoin Design community.
 The role of domain maintainer does not imply any ownership of the domain. 
 
 ## Registration and payments
-The community will pay for, or solicit donations to pay for the long term registration of the community domain(s). 
+The community will pay for, or solicit donations to pay for the long term registration of the community domain(s). The current yearly fees are $49.88 for bitcoin.design, and $12 plus tax for bitcoindesigners.org.
 
 ## Maintainer
 A domain maintainer needs to enact the will of the community and should be strongly disincentivized to act in their own interest. They are NOT allowed to change the domain settings in any way without the approval from the community as set out in domain changes. The domain maintainer is selected from the community github maintainers, should be an active contributor at the time of selection and should notify the community if they no longer wish to be a maintainer or are planning to leave their active role in the community.
