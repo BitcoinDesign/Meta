@@ -1,6 +1,6 @@
 # Community domains
 
-This document sets out rules for community domains and the responsibilities and expectations of anyone that maintains and manages the domain settings of official domains used by the Bitcoin Design community. Community domains are used to promote and host content that the community has created and committed to the github.com/bitcoindesign repositories. This currently applies to;
+This document sets out rules for community domains and the responsibilities and expectations of anyone that maintains and manages the domain settings of official domains used by the Bitcoin Design community. Community domains are used to promote and host content that the community has created and committed to the github.com/bitcoindesign repositories. This currently applies to:
 
 - bitcoin.design
 - bitcoindesigners.org
