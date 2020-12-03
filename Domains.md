@@ -35,7 +35,7 @@ The domain maintainer can NOT sell, rent or give the domain away nor accept any 
 # Domain information
 
 ## bitcoin.design
-Maintainer: 
+Maintainer: @gbks, as [decided](https://github.com/BitcoinDesign/Guide/pull/21#issuecomment-738131599)
 
 Expiry date: 2021-06-27T23:59:59.0Z
 
