@@ -8,7 +8,7 @@ After having organized a few calls, we established several practices outlined he
 
 We have them every third Wednesday. The easiest way to stay up-to-date is via our [calendar](README.md#the-bitcoin-design-calendar). During in-between weeks, we host Design Review and Design Guide Jam Session calls.
 
-Calls are 1 hour and many times go over by 15-30 minutes. There is also an open pre-call on Jitsi for casual conversation that startes 1 hour earlier.
+Calls are officially 1 hour, but many times go over by 15-30 minutes for those who want. There is also an open pre-call on Jitsi for casual conversation that startes 1 hour earlier.
 
 **What time of day are calls?**
 
@@ -16,7 +16,7 @@ They are at 9am PT. For the first 6-7 calls, we voted on the time. Since the res
 
 **What format do the calls have?**
 
-We have used various formats, from structured presentations to wid open discussion. All have been interesting, so we are picking each call format based on what is appropriate at the moment.
+We have used various formats, from structured presentations to wide open discussion. All have been interesting, so we are picking each call format based on what is appropriate at the moment.
 
 Some examples:
 
