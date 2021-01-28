@@ -8,7 +8,7 @@ Here are six types of design needs a project may have.
 
 ## #1 Resources & consultation
 
-An existing project is looking for resources and expertise to improve their product (and potentially design process).
+An existing project is looking for resources and expertise to improve their product's user experience (and potentially design process).
 
 Ways the project can choose to interact with the community:
 
