@@ -4,7 +4,7 @@ As we get actively involved in supporting projects, we will probably encounter a
 
 This is not meant to be a strict rule set. Every project is unique, and healthy collaboration requires everyone involved to be sensitive to the projects needs and goals. Our own goal is to support projects and contributors to improve their products and design practices (and not impose our ideas). 
 
-Here are six types of design needs.
+Here are six types of design needs a project may have.
 
 ## #1 Resources & consultation
 
