@@ -24,7 +24,7 @@ An existing project has identified a problem they would like support with and is
 
 In addition to the options in #1, the team can also create a project brief to start a deeper collaboration. The brief should include the following:
 
-1. Introduce the team, project and design process
+1. Introduce the team, project, its goals, constraints and design process
 1. Explain the issue to work on
 1. Outline ideas for collaboration
 1. Identify next steps with members of the community
