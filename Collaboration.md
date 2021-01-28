@@ -92,7 +92,7 @@ Our goal is clarify what type of design support the project needs, create visibi
 
 ## #6 Adopt a design process
 
-As projects grow and their processes evolve, they may come to a point where they want to improve how they practice design. A designer may already be part of the project, but design contributions have been irregular and unstructured (which is fine for smaller projects).
+As projects grow and their processes evolve, they may come to a point where they want to improve how they practice design and attract designer contributors. A designer may already be part of the project, but design contributions have been irregular and unstructured (which is fine for smaller projects).
 
 Steps we can take:
 
