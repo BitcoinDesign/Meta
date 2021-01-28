@@ -47,6 +47,7 @@ Steps we can take:
 1. Break down work-to-be-done into manageable parts
 	- Example:
 		1. Refine brand
+		1. User Interface audit
 		1. Create a UI style guide
 		1. Implement UI style guide (without touching interaction design)
 		1. Revise individual application screens and user flows one-by-one
