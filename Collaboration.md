@@ -31,7 +31,7 @@ In addition to the options in #1, the team can also create a project brief to st
 
 We can share the brief with the community to find contributors.
 
-Solving single problems usually means to work within the current project framework. Bigger discussions around design processes and other improvements can be had, but the main goal is to help resolve the problem that was brought up by the project team.
+Solving single problems usually means to work within the current project framework. Bigger discussions around design processes and other improvements can be had, but the scope of work would be to resolve the specific problem that was brought up by the project team.
 
 ## #3 Redesign
 
