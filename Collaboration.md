@@ -1,6 +1,6 @@
 # Bitcoin Design Community collaboration playbook
 
-As we get actively involved in supporting projects, we probably encounter a few different types of situations. The goal of this document is to define common types of collaborations, to serve as starting points for new inquiries.
+As we get actively involved in supporting projects, we will probably encounter a few different types of situations. The goal of this document is to define common types of collaborations, to serve as starting points for new inquiries.
 
 This is not meant to be a strict rule set. Every project is unique, and healthy collaboration requires everyone involved to be sensitive to the situation. Our goal is to support projects and contributors to improve their products and design practices (and not impose our ideas). 
 
