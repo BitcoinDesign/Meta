@@ -69,7 +69,7 @@ Similar to redesigns, a team of designers (and a project manager) is ideal to ta
 
 ## #5 Find a designer
 
-Some projects want to expand their team by bringing in dedicated designers. As designers are often individual contributors with a unique set of interests, experience and availability, this can often be a longer, moree gradual proces.
+Some projects want to expand their team by bringing in dedicated designers. As designers are often individual contributors with a unique set of interests, experience and availability, this can often be a longer, more gradual process.
 
 Simplified designer life cycle in a project:
 
