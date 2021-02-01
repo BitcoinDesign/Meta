@@ -63,7 +63,7 @@ Designers who want to tackle redesigns should ensure they have the availability 
 
 ## #4 New project
 
-This is an opportunity to adopt a good design process from the start, beginning with researching product concepts, user research, etc. New projects likely also have other foundations to lay, so designers need to be flexible.
+This is an opportunity to adopt a good design process from the start, beginning with researching product concepts, target audience research, etc. New projects likely also have other foundations to lay, so designers need to be flexible.
 
 Similar to redesigns, a team of designers (and a project manager) is ideal to tackle new projects. Once the design foundation has been created, that need will shrink.
 
