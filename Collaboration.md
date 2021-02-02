@@ -153,3 +153,12 @@ Project design process life cycle:
 - We can help designers get more experience and find projects they are passionate about
 - We allow projects to build better products
 - Learnings can flow back into the Bitcoin Design Guide
+
+### How do we prioritize projects?
+
+This is ultimately up to the individuals who are volunteering their time to decide, so the following are simply recommendations:
+
+- [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) over [OSS](https://en.wikipedia.org/wiki/Open-source_software) over [closed source](https://en.wikipedia.org/wiki/Proprietary_software)
+- Non-profit over commercial
+- Self-custodial over custodial
+
