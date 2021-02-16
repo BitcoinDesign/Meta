@@ -1,7 +1,7 @@
 # Design Review
 
 ## What is this?
-A bi-weekly design review for Bitcoin products and services, 17:00 UTC on Mondays. 
+A design review held every three weeks for Bitcoin products and services, 17:00 UTC on Mondays. 
 
 ## What is the purpose?
 This allows designers and developers to get constructive feedback specifically related to the user interface, user experience and other related design elements. 
