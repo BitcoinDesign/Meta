@@ -36,7 +36,7 @@ Some examples:
 
 **What tools do we use?**
 
-We use [Jitsi](https://jitsi.org), which is open-source, privacy-preserving, and available as web and desktop applications.
+We use [Jitsi](https://jitsi.org), which is open-source, doesn't require you to create an account, and is available as web and desktop applications.
 
 **Are calls recorded?**
 
