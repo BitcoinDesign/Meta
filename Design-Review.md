@@ -22,7 +22,7 @@ Ideally you have shared links to your work ahead of the session to give people m
 Design Review should be a positive and supportive environment that encourages people to share their work. Make sure to be respectful of both the presenter and other participants time by keeping feedback focused, constructive and relevant. Make sure you understand what part of the design is under consideration, and what type of feedback the presenter is looking for (UX flow, detailed design etc.). Asking questions can often be more productive than proposing solutions.
 
 ## How do I get involved?
-Attend a review! We are currently hosting on Jitsi! 
+Attend a review! We are currently hosting on [Jitsi](https://jitsi.org), which is open-source, doesn't require you to create an account, and is available as web and desktop applications.
 
 ## Upcoming meetings
 Here is a [link](https://github.com/BitcoinDesign/Meta/issues?q=is%3Aissue+in%3Atitle+%22Design+Review+Call+%23%22+) to a filtered view of Github issues that only includes upcoming and past design review calls.
@@ -31,7 +31,7 @@ You can also subscribe to our auto-updating calendar, [More info here](https://g
 
 Meetings may be recorded for posterity!
 
-You can view a video from a previous design review session [here](https://www.youtube.com/watch?v=4JtL7I0ihiw)
+You can view videos of previous sessions on our [YouTube channel](https://www.youtube.com/channel/UCXKST1b8Wmq8Zt6b6S_-k3Q) in the [Design Reviews playlist](https://youtube.com/playlist?list=PLpV0KfVOMojYDwQcdYt6anfQqqRk944Dq).
 
 ## Contacts
 Design reviews are currently being scheduled and hosted by [ConorOkus](https://github.com/ConorOkus). Future meetings are likely to be hosted by different members of the Bitcoin Design community. 
