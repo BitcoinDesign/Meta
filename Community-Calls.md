@@ -36,16 +36,11 @@ Some examples:
 
 **What tools do we use?**
 
-- We currently use password-protected Zoom calls
-- Google Meet is lacking the moderation options we want
-- [Jitsi](https://jitsi.org) does not scale to the group size we want
-- BigBlueButton has been proposed, but we have not tested it
+We use [Jitsi](https://jitsi.org), which is open-source, doesn't require you to create an account, and is available as web and desktop applications.
 
 **Are calls recorded?**
 
-We have not recorded them so far. There has been interest in recordings, but there is also a sense that the privacy of individuals should be respected. This can make participants more comfortable and result in conversations we might otherwise not have.
-
-We may start recording portions of calls, or whole calls, but never without permission and clearly asking participants for their consent. The benefits is that recordings provide more transparency to the wider community.
+We did not record calls initially but have started to do so due to community requests. Calls are only recorded if all participants agree, and are uploaded to our [YouTube channel](https://www.youtube.com/channel/UCXKST1b8Wmq8Zt6b6S_-k3Q) in the [Community Calls playlist](https://www.youtube.com/playlist?list=PLpV0KfVOMoja_zmmFNSJXREVKE4PSU0M1).
 
 **Are calls transcribed?**
 
