@@ -22,6 +22,15 @@ Our role in this scenario is to be a helpful partner in providing resources and 
 
 An existing project has identified a problem they would like support with and is looking to the community for help resolving it.
 
+For example:
+- Perform user research to inform their future plans
+- Analyse the current user experience and propose improvements
+- Solve a particularly complex UX issue
+- Establish a design system for an application
+- Improve the onboarding user flow
+- Design a website
+- Revise logo and brand
+
 In addition to the options in #1, the team can also create a project brief to start a deeper collaboration. The brief should include the following:
 
 1. Introduce the team, project, its goals, constraints and design process
