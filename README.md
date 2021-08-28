@@ -13,7 +13,7 @@ Community activity is fluid, but here are a few important starting points:
 2. [Subscribe to the newsletter](https://bitcoindesign.substack.com) to stay up-to-date
 2. Read up on our [project life cycle](Projects.md)
 3. Browse [issues](https://github.com/BitcoinDesign/Meta/issues) for upcoming calls and discussions around processes and coordination
-4. Subscribe to our [calendar](https://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/events.ical) to stay up-to-date with calls and events we organize
+4. Subscribe to our [calendar](webcal://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/events.ical) to stay up-to-date with calls and events we organize
 
 ## How to get involved in projects
 
@@ -39,7 +39,7 @@ Community activity is fluid, but here are a few important starting points:
 
 ## The Bitcoin Design calendar
 
-Our [calendar](https://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/events.ical) (an .iCal file) includes upcoming calls (community calls, design review calls, etc). Qualified issues are automatically added to the calendar, which you can then subscribe to via your favorite calendar tool.
+Our [calendar](webcal://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/events.ical) (an .iCal file) includes upcoming calls (community calls, design review calls, etc). Qualified issues are automatically added to the calendar, which you can then subscribe to via your favorite calendar tool.
 
 - Copy this URL: [https://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/events.ical](https://raw.githubusercontent.com/BitcoinDesign/Meta/calendar/events.ical)
 - In Apple Calendar (desktop), use `File -> New calendar subscriptions`
