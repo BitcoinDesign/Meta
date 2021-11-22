@@ -37,7 +37,7 @@ Some examples:
 
 **What tools do we use?**
 
-For most calls, we have used [Jitsi](https://jitsi.org), which is open-source, doesn't require you to create an account, and is available as web and desktop applications.
+For most calls, we have used [Jitsi](https://jitsi.org), which is open-source, doesn't require you to create an account, and is available as web, mobile and desktop applications.
 
 More recently, we have switched to Twitter Spaces to experiment with the audio format and allow for a more publicly accessible conversation.
 
