@@ -12,7 +12,7 @@ Date: 2021-MM-DD
 Time: 4:00pm
 Timezone: UTC
 Duration: 1h
-UTCTime:
+UTCTime: 2021-MM-DD 16:00 UTC
 ```
 
 [Incredibly well-designed event cover image, see other call issues for inspiration but feel free to put your own touch on it. Landscape formats work best.]
