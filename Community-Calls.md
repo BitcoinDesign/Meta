@@ -6,13 +6,13 @@ After having organized 20+ calls, we established several practices outlined here
 
 **How often are calls?**
 
-We have them every third Wednesday. The easiest way to stay up-to-date is via our [calendar](https://bitcoin.design/contribute/#the-bitcoin-design-calendar). During in-between weeks, we host Design Review and Design Guide Jam Session calls.
+We have them every third Wednesday. The easiest way to stay up-to-date is via our [calendar](https://bitcoin.design/calendar/). During in-between weeks, we host Design Review and Design Guide Jam Session calls.
 
 Calls are officially 1 hour, but many times go over by 15-30 minutes for those who want. When calls are on Jitsi, there is also an open pre-call for casual conversation that starts 1 hour earlier.
 
 **What time of day are calls?**
 
-They are at 9am PT. For the first 6-7 calls, we voted on the time. Since the result was always the same, we standardized it. However, we can adjust if this doesn't work for many.
+They are usually at 17:00 UTC. For the first 6-7 calls, we voted on the time. Since the result was always the same, we standardized it. However, we can adjust if this doesn't work for many.
 
 **What format do the calls have?**
 
@@ -30,7 +30,7 @@ Some examples:
 **How are calls announced?**
 
 - An issue is created 1-2 months earlier
-- They appear on the [calendar](https://bitcoin.design/contribute/#the-bitcoin-design-calendar)
+- They appear on the [calendar](https://bitcoin.design/calendar/)
 - Two @channel message are sent out on Slack, the first one 1 week ahead, and the second one 1 day ahead of the call
 - A regular Slack post in the #general channel is sent out shortly before the call
 - For Twitter Spaces, the Space is shared via a Tweet when it starts

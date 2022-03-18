@@ -1,7 +1,7 @@
 # Design Review
 
 ## What is this?
-A design review held every three weeks for Bitcoin products and services, 16:00 UTC on Mondays. 
+Design review calls are opportunities for individuals and teams to present their projects to the community. To schedule one, reach out in the #design-review channel in Slack.
 
 ## What is the purpose?
 This allows designers and developers to get constructive feedback specifically related to the user interface, user experience and other related design elements. 
@@ -27,11 +27,8 @@ Attend a review! We are currently hosting on [Jitsi](https://jitsi.org), which i
 ## Upcoming meetings
 Here is a [link](https://github.com/BitcoinDesign/Meta/issues?q=is%3Aissue+in%3Atitle+%22Design+Review+Call+%23%22+) to a filtered view of Github issues that only includes upcoming and past design review calls.
 
-You can also subscribe to our auto-updating calendar, [More info here](https://github.com/BitcoinDesign/Meta#the-bitcoin-design-calendar).
+You can also subscribe to our auto-updating calendar, [More info here](https://bitcoin.design/calendar/).
 
 Meetings may be recorded for posterity!
 
 You can view videos of previous sessions on our [YouTube channel](https://www.youtube.com/channel/UCXKST1b8Wmq8Zt6b6S_-k3Q) in the [Design Reviews playlist](https://youtube.com/playlist?list=PLpV0KfVOMojYDwQcdYt6anfQqqRk944Dq).
-
-## Contacts
-Design reviews are currently being scheduled and hosted by [ConorOkus](https://github.com/ConorOkus). Future meetings are likely to be hosted by different members of the Bitcoin Design community. 
