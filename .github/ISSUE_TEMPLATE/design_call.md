@@ -31,4 +31,4 @@ UTCTime: 2022-MM-DD 16:00 UTC
 
 ### Calendar invite
 
-[LINK TO CALENDAR INVITE]
+Subscribe to the [Bitcoin Design calendar](https://bitcoin.design/calendar/).

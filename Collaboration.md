@@ -1,6 +1,6 @@
 # Bitcoin Design Community collaboration playbook
 
-The goal of this document is to define common types of collaborations, to serve as starting points for new inquiries.
+The goal of this document is to define common types of collaborations, to serve as starting points for new inquiries. Collaborations should be tracked as issues with the "collabration" label, see the [current ones here](https://github.com/BitcoinDesign/Meta/issues?q=is%3Aopen+is%3Aissue+label%3Acollaboration).
 
 This is not meant to be a strict rule set. Every project is unique, and healthy collaboration requires everyone involved to be sensitive to the projects needs and goals. Our own goal is to support projects and contributors to improve their products and design practices (and not impose our ideas). 
 

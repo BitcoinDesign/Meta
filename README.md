@@ -13,4 +13,4 @@ Documents of note here:
 - [Collaboration](Collaboration.md) - the types of design needs projects looking to collaborate with the community may have
 - [Community calls](Community-Calls.md) - how we organize and run community calls
 - [Domains](Domains.md) - an agreement on how domains owned by the community are governed
-- [Design reviews](Design-Review.md) - how we organize and run design review calls (currently we don't)
+- [Design reviews](Design-Review.md) - how we organize and run design review calls
