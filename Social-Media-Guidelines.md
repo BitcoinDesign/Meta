@@ -34,6 +34,20 @@ Don'ts:
 - Keep direct criticism to personal accounts
 - Keep direct promotion to personal accounts
 
+Good:
+
+- ABC Wallet just launched a new version with an improved UI. It's a perfect example of techniques from the Onboarding section of the Guide!
+- Just wrapped up another awesome design sprint with XYZ Wallet. Thanks for being so open to collaboration with the Bitcoin Design Community!
+- Several members of the Design Community participated in this podcast about DEF Wallet to talk about this Lightning backups. What do you think about this topic?
+- MNO Exchange just launched an initiative to provide grant funding to people working on open source bitcoin projects. Calling all designers!
+
+Bad:
+
+- GHI Wallet has a pretty bad UI. Shame they haven't read the Guide.
+- Gee, JKL Wallet, would it kill you to join a Design Review call?
+- PQR Wallet is the best. You should all download it now!
+- STU Wallet has a promotion going on where you can get free sats for downloading their app.
+
 ### Editors
 
 The Twitter account is currently managed by Bosch.
