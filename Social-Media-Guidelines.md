@@ -29,7 +29,7 @@ Do's:
 
 - OK to highlight when products, services, and brands adopt strategies from the Guide, or do things that’s good for open source bitcoin or open design processes
 
-Dont's:
+Don'ts:
 
 - Keep direct criticism to personal accounts
 - Keep direct promotion to personal accounts
