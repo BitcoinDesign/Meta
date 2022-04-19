@@ -51,6 +51,8 @@ Calls via Twitter Spaces are automatically recorded by Twitter and public in nat
 
 We post short, concise summaries in the call issues. Personally identifiable information is removed. The types of notes taken differs based on the call format and the person(s) volunteering to take notes.
 
+Recordings uploaded to BitcoinTV or YouTube should include timestamps, so viewers can more easily understand what was discussed and jump to topics that interest them.
+
 **What else?**
 
 - Calls should not be used to make decisions as that would exclude too many people, and group dynamics might affect the result

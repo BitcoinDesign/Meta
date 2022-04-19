@@ -3,6 +3,8 @@
 ## What is this?
 Design review calls are opportunities for individuals and teams to present their projects to the community. To schedule one, reach out in the #design-review channel in Slack.
 
+You can view videos of previous sessions on our [YouTube channel](https://www.youtube.com/channel/UCXKST1b8Wmq8Zt6b6S_-k3Q) in the [Design Reviews playlist](https://youtube.com/playlist?list=PLpV0KfVOMojYDwQcdYt6anfQqqRk944Dq).
+
 ## What is the purpose?
 This allows designers and developers to get constructive feedback specifically related to the user interface, user experience and other related design elements. 
 
@@ -12,7 +14,7 @@ Anyone who is working on a user-facing application and wants to get some tips on
 ## Why should you take part in design review?
 This provides a space for the open-source design community to get valuable feedback from different perspectives during the design phase. This will help designers to feel confident they are moving in the right direction.
 
-## How to prepare? 
+## How to prepare? 
 Please come prepared with screenshots, videos, slides, mockups. If possible you should also aim to share work beforehand with the community so we can spend more time on discussion and less on actually presenting work. There is a dedicated [#design-review](https://bitcoindesign.slack.com/archives/C015DQEPCHJ) channel in slack which is a good place to post your work. In addition, it would be helpful if as a presenter you came prepared with biggest areas of concern or a set of questions.
 
 ## How to present 
@@ -30,5 +32,3 @@ Here is a [link](https://github.com/BitcoinDesign/Meta/issues?q=is%3Aissue+in%3A
 You can also subscribe to our auto-updating calendar, [More info here](https://bitcoin.design/calendar/).
 
 Meetings may be recorded for posterity!
-
-You can view videos of previous sessions on our [YouTube channel](https://www.youtube.com/channel/UCXKST1b8Wmq8Zt6b6S_-k3Q) in the [Design Reviews playlist](https://youtube.com/playlist?list=PLpV0KfVOMojYDwQcdYt6anfQqqRk944Dq).
