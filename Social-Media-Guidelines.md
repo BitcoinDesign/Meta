@@ -50,7 +50,7 @@ Bad:
 
 ### Editors
 
-The Twitter account is currently managed by Bosch.
+The Twitter account is currently managed by [bosch](https://twitter.com/_Bosch_).
 
 ---
 
