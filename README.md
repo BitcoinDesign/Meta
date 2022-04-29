@@ -14,3 +14,4 @@ Documents of note here:
 - [Community calls](Community-Calls.md) - how we organize and run community calls
 - [Domains](Domains.md) - an agreement on how domains owned by the community are governed
 - [Design reviews](Design-Review.md) - how we organize and run design review calls
+- [Social Media Guidelines](Social-Media-Guidelines.md) - how we present the community on Twitter, newsletters, etc.
