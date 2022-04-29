@@ -2,7 +2,7 @@
 
 ## The [@bitcoin_design](https://twitter.com/bitcoin_design) Twitter account
 
-The twitter account gives more exposure to designers and efforts in the community. It also hosts the community call every 3 weeks via Twitter Spaces.
+The Twitter account gives more exposure to designers and efforts in the community. It also hosts the community call every 3 weeks via Twitter Spaces.
 
 ### Format
 
@@ -14,7 +14,7 @@ Voice, tone & writing style:
 - High signal-to-noise ratio
 - Friendly & approachable
 - Succinct
-- Use threads with each Tweet capturing one idea/point
+- Use threads with each tweet capturing one idea/point
 
 Content ideas:
 
@@ -23,16 +23,16 @@ Content ideas:
 - Announce calls and call recordings (learning bitcoin & design, design review, community call…)
 - Quick user research and polls for community projects
 - Respond to current design-related conversations (e.g. post a link to the Units & Symbols page if there’s a thread somewhere around unit formatting)
-- Add context to Tweets when RT'ing to add value
+- Add context to tweets when RT'ing to add value
 
-Do's:
+Do:
 
 - OK to highlight when products, services, and brands adopt strategies from the Guide, or do things that’s good for open source bitcoin or open design processes
 
-Don'ts:
+Don't:
 
-- Keep direct criticism to personal accounts
-- Keep direct promotion to personal accounts
+- Criticize projects or people (if you must, use your personal accounts)
+- Promote a specific product over others (if you must, use your personal accounts)
 
 Good:
 
