@@ -12,7 +12,7 @@ We will only focus on a particular page or section of your product so we can giv
 
 2. A product is selected for the next upcoming Bitcoin Design Crit call by members of the community.
 
-3. Product designers interested in reviewing jump into a collaborative Figma file where they crit the product page or section submitted **PRIOR** to the Bitcoin Desisgn Crit call. This will all be public and open for anyone to view in classic open-source fashion.
+3. Product designers interested in reviewing jump into a collaborative Figma file **PRIOR** to call, where they crit the product page or section submitted. This will all be public and open for anyone to view, in classic open-source fashion.
 
 4. Product designers who crit the product present their feedback to the product team in the scheduled Bitcoin Design Crit call which happen Thursdays at 2:00PM UTC.
 
