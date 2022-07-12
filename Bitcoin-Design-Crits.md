@@ -26,23 +26,23 @@ Calls are recorded and open for anyone to join in and view the crit take place. 
 
 ## What information do I need to provide for a crit?
 
-- The section or page you want reviewed. We can help you identify an area that needs work if you can't
-- Links to any design files you use in your product if you have them: Figma file, design system, icon set, band assets
-- If your app has a tesnet or beta version that needs special access to join that would make the process a lot easier! 
+- The section or page you want reviewed. We can help you identify an area that needs work if you're not sure
+- Links to any design files you use in your product if you have them: Figma file, design system, icon set, brand assets
+- Access information, if your app has a testnet or beta version that requires authentication to use 
 
 ## What we won't do
 
-- Make up new features or suggest developmental changes (unless necessary, relevant, or just as an optional thing to do look into)
+- Make up new features or suggest developmental changes (unless necessary, relevant, or just as an optional thing to look into)
 - Make any branding, style guide or other thematic changes
-- Accessibility will be covered in context but we will not do a full audit as that can be quite extensive
-Create new icons or graphics
+- Accessibility will be covered in context, but we will not do a full audit, as that can be quite extensive
+- Create new icons or graphics
 
 ## When do these happen?
 
-Once a week on Thursday 2:00PM UTC in the [bitcoin design jitsi](https://meet.jit.si/bitcoindesign). Calls are recorded and open for anyone to join in and view the crit take place. If you do not wish for the call to be recorded we can accommodate.
+Once a week on Thursday 2:00PM UTC in the [bitcoin design jitsi](https://meet.jit.si/bitcoindesign). Calls are recorded and open for anyone to join in and view the crit take place. If you do not wish for the call to be recorded, we can accommodate.
 
 Cut-off for submissions is Tuesdays for that weeks crit. This is so we have adequate time to review your product.
 
 Upcoming Bitcoin Design Crit calls can be found [here](https://github.com/BitcoinDesign/Meta/issues?q=is%3Aissue+is%3Aopen+Bitcoin+Design+Crits). 
 
-You can also subscribe to our auto-updating calendar, [More info here](https://bitcoin.design/calendar/).
+You can also subscribe to our auto-updating calendar. [More info here](https://bitcoin.design/calendar/).
