@@ -6,7 +6,7 @@ Bitcoin Design Crits are opportunities for bitcoin products to get design critiq
 
 ## How does it work?
 
-1. A bitcoin product submits a page or section they want reviewed on Bitcoin Design Crits in the #design-review in our Slack.
+1. A bitcoin product submits a page or section they want reviewed on Bitcoin Design Crits in the [#design-review](https://bitcoindesign.slack.com/archives/C019MTNFKL7) channel in our Slack.
 
 We will only focus on a particular page or section of your product so we can give the highest amount of value. Reviewing a whole product is an extensive and involved process that is better suited to be dealt with by a dedicated Product Designer. If you need a Product Designer for your bitcoin product, reach out in the opportunities channel in our Slack.
 
