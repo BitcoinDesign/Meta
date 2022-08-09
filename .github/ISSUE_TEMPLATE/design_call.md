@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 ```meta
-Date: 2022-MM-DD
-Time: 4:00pm
+Date: 2022-DD-MM
+Time: 16:00
 Timezone: UTC
 Duration: 1h
 UTCTime: 2022-MM-DD 16:00 UTC
@@ -27,7 +27,7 @@ UTCTime: 2022-MM-DD 16:00 UTC
 
 ### Join the call
 
-[LINK FOR CALL]
+[LINK FOR CALL e.g. https://meet.jit.si/bitcoindesign]
 
 ### Calendar invite
 
