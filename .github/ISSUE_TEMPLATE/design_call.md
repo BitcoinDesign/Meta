@@ -8,11 +8,8 @@ assignees: ''
 ---
 
 ```meta
-Date: 2022-DD-MM
-Time: 16:00
-Timezone: UTC
-Duration: 1h
 UTCTime: 2022-MM-DD 16:00 UTC
+Duration: 1h
 ```
 
 [Incredibly well-designed event cover image, see other call issues for inspiration but feel free to put your own touch on it. Landscape formats work best.]
