@@ -14,7 +14,7 @@ We will only focus on a particular page or section of your product so we can giv
 
 3. Product designers interested in reviewing jump into a collaborative Figma file **PRIOR** to call, where they crit the product page or section submitted. This will all be public and open for anyone to view, in classic open-source fashion.
 
-4. Product designers who crit the product present their feedback to the product team in the scheduled Bitcoin Design Crit calls, which happen Thursdays at 2:00PM UTC.
+4. Product designers who crit the product present their feedback to the product team in the scheduled Bitcoin Design Crit calls, which happen Thursdays at 08:00AM UTC.
 
 Follow up help and suggestions on the feedback given is always available.
 
@@ -39,7 +39,7 @@ Calls are recorded and open for anyone to join in and view the crit take place. 
 
 ## When do these happen?
 
-Once a week on Thursday 2:00PM UTC in the [bitcoin design jitsi](https://meet.jit.si/bitcoindesign). Calls are recorded and open for anyone to join in and view the crit take place. If you do not wish for the call to be recorded, we can accommodate.
+Once a week on Thursday 08:00AM UTC in the [bitcoin design jitsi](https://meet.jit.si/bitcoindesign). Calls are recorded and open for anyone to join in and view the crit take place. If you do not wish for the call to be recorded, we can accommodate.
 
 Cut-off for submissions is Tuesdays for that weeks crit. This is so we have adequate time to review your product.
 
