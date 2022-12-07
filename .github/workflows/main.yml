@@ -4,6 +4,7 @@ on:
     types:
       - opened
       - edited
+      - labeled
 
 jobs:
   create_calendar_from_issues:
