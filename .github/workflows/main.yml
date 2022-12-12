@@ -1,9 +1,13 @@
 on:
   push:
+    branches:
+      - calendar
   issues:
     types:
       - opened
       - edited
+    branches:
+      - calendar
 
 jobs:
   create_calendar_from_issues:
