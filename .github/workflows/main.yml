@@ -6,6 +6,7 @@ on:
     types:
       - opened
       - edited
+      - labeled
     branches:
       - calendar
 
