@@ -31,21 +31,21 @@ Some examples:
 
 - An issue is created 1-2 months earlier
 - They appear on the [calendar](https://bitcoin.design/calendar/)
-- Two @channel message are sent out on Slack, the first one 1 week ahead, and the second one 1 day ahead of the call
-- A regular Slack post in the #general channel is sent out shortly before the call
+- Two #announcement messages are sent out on Discord, the first one 1 week ahead, and the second one 1 day ahead of the call
+- A regular Discord post in the #general channel is sent out shortly before the call
 - For Twitter Spaces, the Space is shared via a Tweet when it starts
 
 **What tools do we use?**
 
 For most calls, we have used [Jitsi](https://jitsi.org), which is open-source, doesn't require you to create an account, and is available as web, mobile and desktop applications.
 
-More recently, we have switched to Twitter Spaces to experiment with the audio format and allow for a more publicly accessible conversation.
+More recently, we have experimented with Nostr Nests and Twitter Spaces to experiment with the audio format and allow for a more publicly accessible conversation.
 
 **Are calls recorded?**
 
-We did not record Jitsi calls initially but started to do so due to community requests. Calls are only recorded if all participants agree, and are uploaded to our [BitcoinTV]([BitcoinTV](https://bitcointv.com/a/bitcoin_design/videos)) account, and [YouTube channel](https://www.youtube.com/channel/UCXKST1b8Wmq8Zt6b6S_-k3Q) in the [Community Calls playlist](https://www.youtube.com/playlist?list=PLpV0KfVOMoja_zmmFNSJXREVKE4PSU0M1).
+We did not record Jitsi calls initially but started to do so due to community requests. Calls are only recorded if all participants agree, and are uploaded to our [BitcoinTV]([BitcoinTV](https://bitcointv.com/a/bitcoin_design/videos)) account, and [YouTube channel](https://www.youtube.com/@BitcoinDesign) in the [Community Calls playlist](https://www.youtube.com/playlist?list=PLpV0KfVOMoja_zmmFNSJXREVKE4PSU0M1).
 
-Calls via Twitter Spaces are automatically recorded by Twitter and public in nature. They are audio-only, but we still post them on our video channels (with a static image for the visual).
+Calls via Nostr Nests and Twitter Spaces are automatically recorded by Twitter and public in nature. They are audio-only, but we still post them on our video channels (with a static image for the visual).
 
 **Are calls transcribed?**
 
@@ -61,12 +61,13 @@ Recordings uploaded to BitcoinTV or YouTube should include timestamps, so viewer
 
 **Things to consider when hosting calls**
 
-- It can be a two-person job. One person to lead the conversation, and a second person to post on Slack and Twitter, take notes, keep an eye on time, etc
+- It can be a two-person job. One person to lead the conversation, and a second person to post on Discord and Twitter/Nostr, take notes, keep an eye on time, etc
 - It's a community call - make sure to open the floor to everyone interested in chatting
 - In open chat sessions, it is helpful to quickly gather topics at the beginning. This helps participants understand what to expect and makes it easier to manage time
 - Announce the 1-hour mark of the call, make it OK for anyone to continue chatting or leave
-- Twitter Spaces calls initially require inviting speakers and co-hosts, pinning relevant Tweets to the space, and tweeting links that were discussed
+- Nostr Nests and Twitter Spaces calls initially require inviting speakers and co-hosts, pinning relevant Tweets to the space, and tweeting links that were discussed
 - Twitter Space recordings can be obtained by downloading an archive of the Bitcoin Design account, which takes 24 hours until it is available
+- Nostr Nests calls need to be recorded by a participant during the call
 
 **Who organizes calls**
 

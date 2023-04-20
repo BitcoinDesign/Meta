@@ -13,7 +13,7 @@ An existing project is looking for resources and expertise to improve their prod
 Ways the project can choose to interact with the community:
 
 1. Review the [guide](https://bitcoin.design/guide/) to find a direction or solution
-1. Engage in Slack conversations to share ideas and get feedback
+1. Engage in Discord conversations to share ideas and get feedback
 1. Participate in a design review session
 
 Our role in this scenario is to be a helpful partner in providing resources and feedback.

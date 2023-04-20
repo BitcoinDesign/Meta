@@ -16,7 +16,7 @@ Many projects start as simple ideas and grow over time with the help of many dif
 
 ### 1. Idea
 
-- Formulate your idea and discuss it on Slack (#project-ideas) to get feedback
+- Formulate your idea and discuss it on Discord (#project-ideas) to get feedback
 - References, prototypes, sketches and other materials that help explain the idea are great for communicating clearly
 - An idea does not have to be so specific that the outcome is clear
 
@@ -25,7 +25,7 @@ Many projects start as simple ideas and grow over time with the help of many dif
 - A more mature idea can be posted as an issue on GitHub (in the most appropriate repository and project board) after some discussion
 - We may want to create an issue template to help people enter at least the minimum information needed for others to understand and evaluate the concept
 - The concept can be fleshed out further in the comment thread of the issue
-- The issue becomes the central place for the concept (unlike Slack where things get lost in the feed)
+- The issue becomes the central place for the concept (unlike Discord where things get lost in the feed)
 
 ### 3. Proposal
 

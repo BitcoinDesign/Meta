@@ -2,7 +2,7 @@
 
 ## No Scam Rule
 
-The Bitcoin Design Slack is not intended to be used for discussing trading or investment strategies. Please do not post in a channel about, or direct message any member to discuss, the following:
+The Bitcoin Design Discord is not intended to be used for discussing trading or investment strategies. Please do not post in a channel about, or direct message any member to discuss, the following:
 
 - Crypto trading
 - Investment strategies
