@@ -1,6 +1,6 @@
 # Social Media & Newsletter Guidelines
 
-A public-facing version of this content can also be found on the website at [/social-media](https://bitcoin.design/social-media/). We also use the [#spread-the-word](https://discord.com/channels/903125802726596648/956367257930453042) Discord channel to discuss these initiatives.
+A public-facing version of this content can also be found on the website at [/social-media](https://bitcoin.design/social-media/). We also use the [#spread-the-word](https://discord.gg/PGz2r2UAmE) Discord channel to discuss these initiatives.
 
 ## X/Twitter & Nostr
 
@@ -83,7 +83,7 @@ Content is a reflection of what is happening in the community. There is no big e
 The process is as follows:
 
 - We publish the newsletter every 3 weeks (except for breaks during long holidays)
-- After every publish, we create a new draft on Google Docs and share it in the [#spread-the-word](https://discord.com/channels/903125802726596648/956367257930453042) channel with free edit rights for anyone
+- After every publish, we create a new draft on Google Docs and share it in the [#spread-the-word](https://discord.gg/PGz2r2UAmE) channel with free edit rights for anyone
 - Anyone can add updates to the draft doc
 - A few days before publishing (usually the Friday before), the editors become active and start gathering additional material across Discord, Github, and social media
 - Going back and forth several times, the editors finalize on ~30 bullet points
