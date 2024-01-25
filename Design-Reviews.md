@@ -1,10 +1,10 @@
 # Bitcoin Design Reviews
 
-Design reviews are opportunities for designers and product teams to get design feedback on a particular feature or aspect of their product. Actionable suggestions for improving usability, user interface, interaction, and visual aesthetics are given by community members.
+Design reviews are opportunities for designers and product teams to get design feedback on a particular feature or aspect of their product as well as getting help in better understanding the needs of their users. Actionable suggestions for improving usability, user interface, interaction, and visual aesthetics are given by community members.
 
 ## How does it work?
 
-1. A bitcoin product team submits a page or section they want reviewed in a design review in the [#design-reviews](https://discord.gg/ss2ZbNcv32) channel in our Discord.
+1. A bitcoin product team submits a page or section of the user flow they want reviewed in a design review in the [#design-reviews](https://discord.gg/ss2ZbNcv32) channel in our Discord.
 
 It is best to focus on a specific part of your product, so we can give the highest amount of value. Reviewing a whole product is an extensive and involved process that is hardly doable in a single call and better suited for a dedicated product designer or a more involved process. If you need a designer for your bitcoin product, reach out in the [#opportunities](https://discord.gg/uBUHHkwTZe) channel.
 
