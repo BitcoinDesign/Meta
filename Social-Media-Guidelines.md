@@ -1,8 +1,15 @@
-# Social Media Guidelines
+# Social Media & Newsletter Guidelines
 
-## The [@bitcoin_design](https://twitter.com/bitcoin_design) Twitter account
+A public-facing version of this content can also be found on the website at [/social-media](https://bitcoin.design/social-media/). We also use the [#spread-the-word](https://discord.gg/PGz2r2UAmE) Discord channel to discuss these initiatives.
 
-The Twitter account gives more exposure to designers and efforts in the community. It also hosts the community call every 3 weeks via Twitter Spaces.
+## X/Twitter & Nostr
+
+Generally, We use social media as a point of contact and to share activity in the community more broadly. 
+
+We use:
+
+- [@bitcoin_design](https://twitter.com/bitcoin_design) on X/Twitter
+- [_@bitcoin.design](https://nosta.me/_@bitcoin.design) on Nostr
 
 ### Format
 
@@ -14,20 +21,20 @@ Voice, tone & writing style:
 - High signal-to-noise ratio
 - Friendly & approachable
 - Succinct
-- Use threads with each tweet capturing one idea/point
+- Use threads with each post capturing one idea/point
 
 Content ideas:
 
-- Guide highlights: When new content is added to the guide, create a new thread on the additions (or re-tweet the authors threads - probably better). 
+- Guide highlights: When new content is added to the guide, create a new thread on the additions (or repost the authors threads - probably better). 
 - Designer spotlight: highlight a designer in the community and share a short story about them / why they like bitcoin / what they work on etc.
 - Announce calls and call recordings (learning bitcoin & design, design review, community call…)
 - Quick user research and polls for community projects
 - Respond to current design-related conversations (e.g. post a link to the Units & Symbols page if there’s a thread somewhere around unit formatting)
-- Add context to tweets when RT'ing to add value
+- Add context to posts when RT'ing to add value
 
 Do:
 
-- OK to highlight when products, services, and brands adopt strategies from the Guide, or do things that’s good for open source bitcoin or open design processes
+- OK to highlight when products, services, and brands adopt strategies from the Guide, or do things that’s good for open-source bitcoin or open-design processes
 
 Don't:
 
@@ -50,7 +57,7 @@ Bad:
 
 ### Editors
 
-The Twitter account is currently managed by [bosch](https://twitter.com/_Bosch_).
+The accounts are currently managed by Christoph. Anyone is welcome to join.
 
 ---
 
@@ -71,7 +78,19 @@ Within each category, we use bullet lists to briefly summarize each item. Each p
 
 The top of each edition starts with an image that serves as a visual summary of the text content. The image is split into a grid of 8 units, each one showing a screenshot or other visual of a bullet item.
 
+Content is a reflection of what is happening in the community. There is no big effort to research and gather "original" content.
+
+The process is as follows:
+
+- We publish the newsletter every 3 weeks (except for breaks during long holidays)
+- After every publish, we create a new draft on Google Docs and share it in the [#spread-the-word](https://discord.gg/PGz2r2UAmE) channel with free edit rights for anyone
+- Anyone can add updates to the draft doc
+- A few days before publishing (usually the Friday before), the editors become active and start gathering additional material across Discord, Github, and social media
+- Going back and forth several times, the editors finalize on ~30 bullet points
+- The newsletter is published around noon
+- We post the link with a very short summary on Discord and social media. Social media posts include @ mentions of relevant people and projects
+
 ### Editors
 
-The newsletter is currently managed by Conor, Johns, and Christoph. Anyone is welcome to join.
+The newsletter is currently managed by Mo and Christoph. Anyone is welcome to join.
 

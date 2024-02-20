@@ -1,8 +1,8 @@
 # Bitcoin Design Community collaboration playbook
 
-The goal of this document is to define common types of collaborations, to serve as starting points for new inquiries. Collaborations should be tracked as issues with the "collabration" label, see the [current ones here](https://github.com/BitcoinDesign/Meta/issues?q=is%3Aopen+is%3Aissue+label%3Acollaboration).
+The goal of this document is to define common types of collaborations, to serve as starting points for new inquiries. Collaborations should be tracked as issues with the "collaboration" label, see the [current ones here](https://github.com/BitcoinDesign/Meta/issues?q=is%3Aopen+is%3Aissue+label%3Acollaboration). Many collaborations we have had so far are shown on the [projects page](https://bitcoin.design/projects/).
 
-This is not meant to be a strict rule set. Every project is unique, and healthy collaboration requires everyone involved to be sensitive to the projects needs and goals. Our own goal is to support projects and contributors to improve their products and design practices (and not impose our ideas). 
+This is not meant to be a strict rule set. Every project is unique, and healthy collaboration requires everyone involved to be sensitive to the projects needs and goals. Our own goal is to support projects and contributors to improve their products and design practices (and not impose our ideas).
 
 Here are six types of design needs a project may have.
 
@@ -14,7 +14,7 @@ Ways the project can choose to interact with the community:
 
 1. Review the [guide](https://bitcoin.design/guide/) to find a direction or solution
 1. Engage in Discord conversations to share ideas and get feedback
-1. Participate in a design review session
+1. Participate in a [design review session](Design-Reviews.md)
 
 Our role in this scenario is to be a helpful partner in providing resources and feedback.
 
@@ -46,7 +46,7 @@ Solving single problems usually means to work within the current project framewo
 
 An existing project is maturing and wants to improve the overall design, which may also means finding a designer and adopting design processes.
 
-The term redesign is often used too quickly. Many times, it is better to systematically improve the existing design than start from scratch. This should be carefully considered.
+The term redesign is often used too quickly. Many times, it is better to systematically improve the existing design than starting from scratch. This should be carefully considered.
 
 Steps we can take:
 
@@ -69,6 +69,8 @@ Steps we can take:
 	- Good idea to start with a design review to present the project and create initial interest
 
 Designers who want to tackle redesigns should ensure they have the availability to regularly contribute for longer periods of time. How much time is required depends on the scope. In addition to designers, having a dedicated project manager available to help with planning and communication is also helpful.
+
+For longer collaborations with lots of good conversation, a dedicated Discord channel may be set up.
 
 ## #4 New project
 
