@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bitcoin Design Community//ical-generator//EN
+NAME:Bitcoin Design Community Calls & Events
+X-WR-CALNAME:Bitcoin Design Community Calls & Events
+TIMEZONE-ID:US/Pacific
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:2210290455@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240329T130000Z
+DTSTART:20240329T130000Z
+DTEND:20240329T140000Z
+SUMMARY:Design Huddle #10
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /657
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/657\">https://github.com/BitcoinDesign/Meta/is
+ sues/657</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/657
+END:VEVENT
+BEGIN:VEVENT
+UID:2206095192@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240325T130000Z
+DTSTART:20240325T130000Z
+DTEND:20240325T140000Z
+SUMMARY:Bitcoin Design Guide Jam Session #66
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /656
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/656\">https://github.com/BitcoinDesign/Meta/is
+ sues/656</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/656
+END:VEVENT
+BEGIN:VEVENT
+UID:2206089588@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240516T070000Z
+DTSTART:20240516T070000Z
+DTEND:20240516T080000Z
+SUMMARY:Global Accessibility Awareness Kick Off Session
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /655
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/655\">https://github.com/BitcoinDesign/Meta/is
+ sues/655</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/655
+END:VEVENT
+BEGIN:VEVENT
+UID:2191819156@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240403T140000Z
+DTSTART:20240403T140000Z
+DTEND:20240403T150000Z
+SUMMARY:Community Call #58
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /652
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/652\">https://github.com/BitcoinDesign/Meta/is
+ sues/652</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/652
+END:VEVENT
+BEGIN:VEVENT
+UID:2188067393@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20240403T150000Z
+DTSTART:20240403T150000Z
+DTEND:20240403T160000Z
+SUMMARY:Pix Brazil: UX Research Call #36
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /648
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/648\">https://github.com/BitcoinDesign/Meta/is
+ sues/648</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/648
+END:VEVENT
+END:VCALENDAR
