@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bitcoin Design Community//ical-generator//EN
+NAME:Bitcoin Design Community Calls & Events
+X-WR-CALNAME:Bitcoin Design Community Calls & Events
+TIMEZONE-ID:US/Pacific
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:2603253394@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20241023T140000Z
+DTSTART:20241023T140000Z
+DTEND:20241023T150000Z
+SUMMARY:Dana wallet - Design Call #1
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /725
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/725\">https://github.com/BitcoinDesign/Meta/is
+ sues/725</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/725
+END:VEVENT
+BEGIN:VEVENT
+UID:2602253963@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20241024T120000Z
+DTSTART:20241024T120000Z
+DTEND:20241024T130000Z
+SUMMARY:Open Design Guide Reading Club #7
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /724
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/724\">https://github.com/BitcoinDesign/Meta/is
+ sues/724</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/724
+END:VEVENT
+BEGIN:VEVENT
+UID:2552432112@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20241024T160000Z
+DTSTART:20241024T160000Z
+DTEND:20241024T170000Z
+SUMMARY:UX Research Call: BDK Research and Process #40
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /718
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/718\">https://github.com/BitcoinDesign/Meta/is
+ sues/718</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/718
+END:VEVENT
+END:VCALENDAR
