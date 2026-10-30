@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bitcoin Design Community//ical-generator//EN
+NAME:Bitcoin Design Community Calls & Events
+X-WR-CALNAME:Bitcoin Design Community Calls & Events
+TIMEZONE-ID:US/Pacific
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:6037912780@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20261102T123000Z
+DTSTART:20261102T123000Z
+DTEND:20261102T133000Z
+SUMMARY:Bitcoin Design Guide UXR Call #11
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /870
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/870\">https://github.com/BitcoinDesign/Meta/is
+ sues/870</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/870
+END:VEVENT
+BEGIN:VEVENT
+UID:6037843628@bitcoindesigners.org
+SEQUENCE:0
+DTSTAMP:20261102T133000Z
+DTSTART:20261102T133000Z
+DTEND:20261102T143000Z
+SUMMARY:Between Us Call #21
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /869
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/869\">https://github.com/BitcoinDesign/Meta/is
+ sues/869</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/869
+END:VEVENT
+END:VCALENDAR
